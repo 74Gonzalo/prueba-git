@@ -1,5 +1,5 @@
-#Probando con Github
-##Uso el contenido de la clase anterior
+# Probando con Github
+## Uso el contenido de la clase anterior
 
 1. Item
 2. Item
